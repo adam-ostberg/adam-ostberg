@@ -12,6 +12,6 @@ I come from a broad software engineering background, from full-stack web develop
 
 ## Elsewhere 🔗
 
-[Website](https://adamostberg.com) · [LinkedIn](https://www.linkedin.com/in/adam-%C3%B6stberg-63a009263) · [CV](https://adamostberg.com/Adam_Ostberg_CV_2026.pdf) · [adam@adamostberg.com](mailto:adam@adamostberg.com)
+[adamostberg.com](https://adamostberg.com) · [adam@adamostberg.com](mailto:adam@adamostberg.com) · [LinkedIn](https://www.linkedin.com/in/adam-%C3%B6stberg-63a009263) · [CV](https://adamostberg.com/Adam_Ostberg_CV_2026.pdf)
 
 Outside of code you'll find me skiing, hiking, mountain biking, travelling, or at a poker table.
