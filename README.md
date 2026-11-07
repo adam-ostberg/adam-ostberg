@@ -6,10 +6,10 @@ I come from a broad software engineering background, from full-stack web develop
 
 ## Selected work 💻
 
-- **[Matjakt](https://github.com/adam-ostberg/matjakt)**: my bachelor's thesis, built with three classmates. It scrapes 4.3 million prices from around 500 Swedish grocery stores and works out the cheapest way to buy a whole shopping list. *Python, Scrapy, Playwright, PostgreSQL, React, TypeScript.* [Live demo](https://matjakt.org/) · [Scraper](https://github.com/adam-ostberg/matjakt-scraper) · [Writeup](https://adamostberg.com/projects/matjakt/)
-- **[Product matcher](https://github.com/adam-ostberg/product-matcher)**: is ICA or Coop cheaper? ICA's product data has no barcodes, so I built a labeling tool, hand-labeled 424 products and trained an XGBoost model to find the same product in both stores (89% precision on a held-out test set). Across 7,659 matched products, Coop is cheaper on 49% and ICA on 24%. Uses the data from Matjakt. *Python, pandas, scikit-learn, XGBoost, React.* [Writeup](https://adamostberg.com/projects/product-matcher/)
-- **Student dropout prediction**: five classifiers that predict whether a student graduates or drops out, plus a small app so we could ask it about ourselves. *Python, scikit-learn, XGBoost, pandas.* [Writeup](https://adamostberg.com/projects/student-dropout-prediction/)
-- **Bolagsrättsligt Forum**: Client work. The website and sign-up form for a course in company and securities law, which I built and ran on my own for five years. *HTML, CSS, JavaScript, Firebase.* [Writeup](https://adamostberg.com/projects/bolagsrattsligt-forum/)
+- **[Matjakt](https://github.com/adam-ostberg/matjakt)**: my bachelor's thesis, built with three classmates. It scrapes 4.3 million prices from around 500 Swedish grocery stores and works out the cheapest way to buy a whole shopping list. [Live demo](https://matjakt.org/) · [Scraper](https://github.com/adam-ostberg/matjakt-scraper) · [Writeup](https://adamostberg.com/projects/matjakt/)
+- **[Product matcher](https://github.com/adam-ostberg/product-matcher)**: is ICA or Coop cheaper? ICA's product data has no barcodes, so I built a labeling tool, hand-labeled 424 products and trained an XGBoost model to find the same product in both stores (89% precision on a held-out test set). Across 7,659 matched products, Coop is cheaper on 49% and ICA on 24%. Uses the data from Matjakt. [Writeup](https://adamostberg.com/projects/product-matcher/)
+- **Student dropout prediction**: five classifiers that predict whether a student graduates or drops out, plus a small app so we could ask it about ourselves. [Writeup](https://adamostberg.com/projects/student-dropout-prediction/)
+- **Bolagsrättsligt Forum**: Client work. The website and sign-up form for a course in company and securities law, which I built and ran on my own for five years. [Writeup](https://adamostberg.com/projects/bolagsrattsligt-forum/)
 
 ## Elsewhere 🔗
 
