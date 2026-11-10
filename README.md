@@ -1,4 +1,4 @@
-# Hi, I'm Adam
+# I'm Adam
 
 MSc Computer Science student at **KTH** in Stockholm, on the Data Science track with a machine learning specialization. I'm also interning at an AI startup, where I annotate and review training data for real-time video models and help evaluate them.
 
